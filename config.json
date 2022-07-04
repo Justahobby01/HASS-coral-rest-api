@@ -8,7 +8,7 @@
   "startup": "application",
   "boot": "auto",
   "map": ["config:rw"],
-  "usb": true,
+  "usb": false,
   "devices": ["/dev/apex_0"], 
   "udev": true,
   "init": false,
